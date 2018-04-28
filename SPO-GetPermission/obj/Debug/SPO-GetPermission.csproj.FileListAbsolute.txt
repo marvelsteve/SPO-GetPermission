@@ -1,0 +1,9 @@
+C:\Users\steve\Documents\Visual Studio 2017\Projects\SPO-GetPermission\SPO-GetPermission\bin\Debug\SPO-GetPermission.exe.config
+C:\Users\steve\Documents\Visual Studio 2017\Projects\SPO-GetPermission\SPO-GetPermission\bin\Debug\SPO-GetPermission.exe
+C:\Users\steve\Documents\Visual Studio 2017\Projects\SPO-GetPermission\SPO-GetPermission\bin\Debug\SPO-GetPermission.pdb
+C:\Users\steve\Documents\Visual Studio 2017\Projects\SPO-GetPermission\SPO-GetPermission\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\steve\Documents\Visual Studio 2017\Projects\SPO-GetPermission\SPO-GetPermission\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\steve\Documents\Visual Studio 2017\Projects\SPO-GetPermission\SPO-GetPermission\obj\Debug\SPO-GetPermission.csprojResolveAssemblyReference.cache
+C:\Users\steve\Documents\Visual Studio 2017\Projects\SPO-GetPermission\SPO-GetPermission\obj\Debug\SPO-GetPermission.csproj.CoreCompileInputs.cache
+C:\Users\steve\Documents\Visual Studio 2017\Projects\SPO-GetPermission\SPO-GetPermission\obj\Debug\SPO-GetPermission.exe
+C:\Users\steve\Documents\Visual Studio 2017\Projects\SPO-GetPermission\SPO-GetPermission\obj\Debug\SPO-GetPermission.pdb
